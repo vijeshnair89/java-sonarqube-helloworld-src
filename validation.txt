@@ -1,4 +1,4 @@
-start server
+start serverdddddd
   with plugin java 3.12
 sonar-runner
 verify org.sonarqube:java-simple-sq-scanner
