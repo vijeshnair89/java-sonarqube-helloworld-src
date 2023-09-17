@@ -3,7 +3,7 @@ start serverdddddddsffsdf
 sonar-runner
 verify org.sonarqube:java-simple-sq-scanner
   measure lines is 35
-  measure ncloc is 31
+  measure ncloc is 31dsdsd
   measure files is 2
   measure classes is 2
 verify org.sonarqube:java-simple-sq-scanner:src/HelloWorld.java
